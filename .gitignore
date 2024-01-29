@@ -10,8 +10,11 @@ src/util/Makefile
 src/.accepted
 src/depend
 src/util/depend
-lib/house
-lib/plrfiles
-lib/plrobjs
-lib/plrvars
-lib/world
+lib/house/
+lib/plrfiles/
+lib/plrobjs/
+lib/plrvars/
+lib/world/
+lib/etc/
+lib/misc/
+log/
